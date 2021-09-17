@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data Limit 100mb
+data/landing_zone/pensionistas/*.zip
+data/raw_zone/pensionistas/*.csv
+
+# Files
+.DS_Store
+
